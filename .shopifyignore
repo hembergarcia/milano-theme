@@ -1,0 +1,4 @@
+# No sincronizar ni borrar estos archivos protegidos
+config/settings_data.json
+config/settings_schema.json
+templates/gift_card.liquid
